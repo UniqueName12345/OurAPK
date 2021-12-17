@@ -14,4 +14,4 @@
  ### Guidelines
     1: Please dont add seizure inducing stuff. If you really HAVE to, at least put a seizure warning before the seizure inducing bit.
     2: More later. :sweatsmile:
- 
+And that is pretty much it for now! 
