@@ -8,15 +8,15 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+(Note: a-lot-of-free-time and patience is optional when using Android Studio)
 
 ```
-android-studio, a-lot-of-free-time, patience
+android-studio (or another apk builder program), a-lot-of-free-time, patience
 ```
 
 ### Installing
 
-This is how you are going to build the APK
+This is how you are going to build the APK.
 
 1. Open Android Studio. You can do this using the command listed below:
 
@@ -31,25 +31,9 @@ Open this repo, then press build. Too lazy? Simply fork this and build it for ot
 
 No need to worry about them RN. 🙂
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
 ## Deployment
 
-Build it, then add to a usb. Plug usb in, then go to file browser. Then install APK. Simple as that.
+Build it, then add to a usb. Plug usb in, then go to file browser and go to "Flash Drive". Then install APK. Simple as that.
 
 ## Built With
 
@@ -61,7 +45,7 @@ Please read CONTRIBUTING.md for details on our code of conduct, and the process 
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/UniqueName12345/OurAPK/tags). 
 
 ## Authors
 
