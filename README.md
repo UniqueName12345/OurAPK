@@ -1,22 +1,78 @@
-- [Our APK](#our-apk)
-  - [Rules](#rules)
-    - [Guidelines](#guidelines)
-
-
 # Our APK
- The community driven apk! Issue a feature request, concerning or not, and I will add it eventually. Or just fork it and add your own features. Or even better, MAKE A NEW PR for the feature you want to add.
- ## Rules
- There is no such thing as a free lunch, so there will have to be some gorund rules, or else this will go to the ground!
- 1: No illicit stuff.
- 2: No racist stuff.
- 3: Have fun!
- 4: If you want to add malware to this, make sure you specify that it is malware, and I will add it in a red button that is labelled "Malware."
- 5. Feel free to PR the readme file as much as you want, just do not delete anything above the line.
- ### Guidelines
-    1: Please dont add seizure inducing stuff. If you really HAVE to, at least put a seizure warning before the seizure inducing bit.
-    2: More later. :sweatsmile:
-And that is pretty much it for now! 
+
+Our APK is a community driven APK where you can PR anything and I will add it.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+android-studio, a-lot-of-free-time, patience
+```
+
+### Installing
+
+This is how you are going to build the APK
+
+1. Open Android Studio. You can do this using the command listed below:
+
+```
+android-studio
+```
+
+Open this repo, then press build. Too lazy? Simply fork this and build it for other people to use. Make sure you stay up to date with the PR's though!
 
 
+## Running the tests
 
----------------------
+No need to worry about them RN. 🙂
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+## Deployment
+
+Build it, then add to a usb. Plug usb in, then go to file browser. Then install APK. Simple as that.
+
+## Built With
+
+* (Love)[https://en.wikipedia.org/wiki/Love] (Not to be confused with LÖVE)
+
+## Contributing
+
+Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Authors
+
+Me.
+
+See also the list of [contributors](https://github.com/UniqueName12345/OurAPK/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* My father, for teaching me about coding. Without him, I would not even have a GitHub account, let alone making this repo.
