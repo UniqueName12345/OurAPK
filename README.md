@@ -37,7 +37,7 @@ Build it, then add to a usb. Plug usb in, then go to file browser and go to "Fla
 
 ## Built With
 
-* (Love)[https://en.wikipedia.org/wiki/Love] (Not to be confused with LÖVE)
+* [Love](https://en.wikipedia.org/wiki/Love) (Not to be confused with LÖVE)
 
 ## Contributing
 
