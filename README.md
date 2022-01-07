@@ -43,6 +43,10 @@ Build it, then add to a usb. Plug usb in, then go to file browser and go to "Fla
 
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
+## Donate
+
+To donate ethereum to me, use this address: 0x725979995E61e231976B7a34be14ad628449Ff0a (this is my only one, all others are fake and will probably steal your ethereum, so better be safe than sorry.) This is only a temporary thing until I set up Github Sponsors.
+
 ## Versioning
 
 We use [our memory](http://en.wikipedia.org/wiki/Memory) for versioning. For the versions available, see the [tags on this repository](https://github.com/UniqueName12345/OurAPK/tags). 
@@ -60,3 +64,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * My father, for teaching me about coding. Without him, I would not even have a GitHub account, let alone making this repo.
+* Brave Crypto, namely for letting me copy the crypto wallet I have. That can be found in the Donate section.
